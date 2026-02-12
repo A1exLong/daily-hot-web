@@ -1,705 +1,705 @@
 {
   "type": "douyin",
-  "update_time": "2026-02-12T12:22:01.682Z",
+  "update_time": "2026-02-12T13:12:01.889Z",
   "list": [
     {
       "index": 1,
       "title": "豆包即梦上线视频模型Seedance2.0",
       "url": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85%E5%8D%B3%E6%A2%A6%E4%B8%8A%E7%BA%BF%E8%A7%86%E9%A2%91%E6%A8%A1%E5%9E%8BSeedance2.0?type=general",
-      "hot_value": "12033844",
+      "hot_value": "11437924",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oY2eBigFEG0BljArIBNKQNimLxmsWAfq1WAR1X~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=%2FsbdkkI0ln8nf9TNnNJkqEfPv7M%3D&from=3218412987",
-        "hot_value": 12033844,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oY2eBigFEG0BljArIBNKQNimLxmsWAfq1WAR1X~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=3OHC6B3l4T6eY758z%2FLh5dy56yw%3D&from=3218412987",
+        "hot_value": 11437924,
         "label": 3,
         "sentence_id": "2398024",
         "video_count": 10,
-        "view_count": 63438900
+        "view_count": 70826793
       }
     },
     {
       "index": 2,
       "title": "林孝埈刘少昂孙龙出战1000米",
       "url": "https://www.douyin.com/search/%E6%9E%97%E5%AD%9D%E5%9F%88%E5%88%98%E5%B0%91%E6%98%82%E5%AD%99%E9%BE%99%E5%87%BA%E6%88%981000%E7%B1%B3?type=general",
-      "hot_value": "11583310",
+      "hot_value": "11414744",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMSvI6Lre58R9fdMJAGAQIGX77Tg2CWBvbIDeU~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=QehrMY0MPozIuTr2pJqmOVTcwz4%3D&from=3218412987",
-        "hot_value": 11583310,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMSvI6Lre58R9fdMJAGAQIGX77Tg2CWBvbIDeU~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=SBvsYJu5VDDD%2BwTJR0VVYX%2BoOH4%3D&from=3218412987",
+        "hot_value": 11414744,
         "label": 3,
         "sentence_id": "2397814",
         "video_count": 4,
-        "view_count": 70163867
+        "view_count": 59914368
       }
     },
     {
       "index": 3,
-      "title": "我在大运河当船长",
-      "url": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E5%A4%A7%E8%BF%90%E6%B2%B3%E5%BD%93%E8%88%B9%E9%95%BF?type=general",
-      "hot_value": "11265130",
+      "title": "我国科学家在3D打印领域有新突破",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9C%A83D%E6%89%93%E5%8D%B0%E9%A2%86%E5%9F%9F%E6%9C%89%E6%96%B0%E7%AA%81%E7%A0%B4?type=general",
+      "hot_value": "11060407",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ootxBf06AiBNIyNTtC0giBWNIsepARRLOAE97o~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=40rWDhR5u3Vk51mprPBcfBSeW8g%3D&from=3218412987",
-        "hot_value": 11265130,
-        "label": 0,
-        "sentence_id": "2398460",
-        "video_count": 1,
-        "view_count": 64099279
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/okEAAjjNsLepeDjGQmIGo5eMQFsoA3XKCMNfu2~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=IdTNakehcA4jvYLy6MYg5b43JsA%3D&from=3218412987",
+        "hot_value": 11060407,
+        "label": 1,
+        "sentence_id": "2398344",
+        "video_count": 2,
+        "view_count": 64502805
       }
     },
     {
       "index": 4,
-      "title": "CBA杯决赛上海vs山西",
-      "url": "https://www.douyin.com/search/CBA%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%8A%E6%B5%B7vs%E5%B1%B1%E8%A5%BF?type=general",
-      "hot_value": "11106415",
+      "title": "我年少你飘渺",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%B9%B4%E5%B0%91%E4%BD%A0%E9%A3%98%E6%B8%BA?type=general",
+      "hot_value": "11016250",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oo1G6vfBGgoew1BTAgLI8G73cCeVTuJQIugFBG~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=QBwtD2KK1NH3OhvFQoi7EtFxt%2BM%3D&from=3218412987",
-        "hot_value": 11106415,
-        "label": 0,
-        "sentence_id": "2398219",
-        "video_count": 6,
-        "view_count": 64078751
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/oQAAJBlTQITAA77QJEYeFLIGEGfM4CId8nf8rg~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=g5VFTUKMnSJThaVHhKVPBvmnNy8%3D&from=3218412987",
+        "hot_value": 11016250,
+        "label": 9,
+        "sentence_id": "2397657",
+        "video_count": 10,
+        "view_count": 63000844
       }
     },
     {
       "index": 5,
-      "title": "我年少你飘渺",
-      "url": "https://www.douyin.com/search/%E6%88%91%E5%B9%B4%E5%B0%91%E4%BD%A0%E9%A3%98%E6%B8%BA?type=general",
-      "hot_value": "10518123",
+      "title": "CBA杯决赛上海vs山西",
+      "url": "https://www.douyin.com/search/CBA%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%8A%E6%B5%B7vs%E5%B1%B1%E8%A5%BF?type=general",
+      "hot_value": "10394017",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c000-ce/oQAAJBlTQITAA77QJEYeFLIGEGfM4CId8nf8rg~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=URnpEQKxNBMfH%2B44PzO4nAeKhPc%3D&from=3218412987",
-        "hot_value": 10518123,
-        "label": 9,
-        "sentence_id": "2397657",
-        "video_count": 10,
-        "view_count": 62708321
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oo1G6vfBGgoew1BTAgLI8G73cCeVTuJQIugFBG~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=g9Z0%2BGWXzS8iCAXMeitnzRzGe8A%3D&from=3218412987",
+        "hot_value": 10394017,
+        "label": 0,
+        "sentence_id": "2398219",
+        "video_count": 6,
+        "view_count": 57637767
       }
     },
     {
       "index": 6,
-      "title": "这都被你发现我家孩子得奖状啦",
-      "url": "https://www.douyin.com/search/%E8%BF%99%E9%83%BD%E8%A2%AB%E4%BD%A0%E5%8F%91%E7%8E%B0%E6%88%91%E5%AE%B6%E5%AD%A9%E5%AD%90%E5%BE%97%E5%A5%96%E7%8A%B6%E5%95%A6?type=general",
-      "hot_value": "10499918",
+      "title": "春节迷上在抖音看视频播客了",
+      "url": "https://www.douyin.com/search/%E6%98%A5%E8%8A%82%E8%BF%B7%E4%B8%8A%E5%9C%A8%E6%8A%96%E9%9F%B3%E7%9C%8B%E8%A7%86%E9%A2%91%E6%92%AD%E5%AE%A2%E4%BA%86?type=general",
+      "hot_value": "10350848",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/o03DFDdLSBo6QUrVIBJeEfieOKFtTQAhHJF7gI~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=lbS9ZbotyO4voRHE5c5Qrs4nEKY%3D&from=3218412987",
-        "hot_value": 10499918,
-        "label": 3,
-        "sentence_id": "2397883",
-        "video_count": 3,
-        "view_count": 61994908
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oAmSC3jiI1yLklPA9gvI7wme7Uf0GJE4BeOQq8~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=fUMAXsd8EFG8O4OvWCZHN2EjVHE%3D&from=3218412987",
+        "hot_value": 10350848,
+        "label": 8,
+        "sentence_id": "2398486",
+        "video_count": 5,
+        "view_count": 55112947
       }
     },
     {
       "index": 7,
-      "title": "你只管走幸福随处可见",
-      "url": "https://www.douyin.com/search/%E4%BD%A0%E5%8F%AA%E7%AE%A1%E8%B5%B0%E5%B9%B8%E7%A6%8F%E9%9A%8F%E5%A4%84%E5%8F%AF%E8%A7%81?type=general",
-      "hot_value": "9335735",
+      "title": "永远会被老一辈的爱情感动",
+      "url": "https://www.douyin.com/search/%E6%B0%B8%E8%BF%9C%E4%BC%9A%E8%A2%AB%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E7%88%B1%E6%83%85%E6%84%9F%E5%8A%A8?type=general",
+      "hot_value": "9241653",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oU6YBcfDaE1F7ETBe9UsCFBfLCdAuEXzFCTRIA~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=PHO50Wdt3Mp%2BIcEwAjyBC42zo%2FM%3D&from=3218412987",
-        "hot_value": 9335735,
-        "label": 0,
-        "sentence_id": "2396978",
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/owrY0qtioI9TaATt1DFmxCdPIQ7PMIPiABPiY~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=VaNsQjqqKW1YzVP07dDxVRH4xzk%3D&from=3218412987",
+        "hot_value": 9241653,
+        "label": 3,
+        "sentence_id": "2398126",
         "video_count": 3,
-        "view_count": 57131716
+        "view_count": 52891399
       }
     },
     {
       "index": 8,
-      "title": "永远会被老一辈的爱情感动",
-      "url": "https://www.douyin.com/search/%E6%B0%B8%E8%BF%9C%E4%BC%9A%E8%A2%AB%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E7%88%B1%E6%83%85%E6%84%9F%E5%8A%A8?type=general",
-      "hot_value": "9187347",
+      "title": "这都被你发现我家孩子得奖状啦",
+      "url": "https://www.douyin.com/search/%E8%BF%99%E9%83%BD%E8%A2%AB%E4%BD%A0%E5%8F%91%E7%8E%B0%E6%88%91%E5%AE%B6%E5%AD%A9%E5%AD%90%E5%BE%97%E5%A5%96%E7%8A%B6%E5%95%A6?type=general",
+      "hot_value": "9189164",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/owrY0qtioI9TaATt1DFmxCdPIQ7PMIPiABPiY~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=%2BPRelSWpHNjdIwfh8UANYxwBKoE%3D&from=3218412987",
-        "hot_value": 9187347,
-        "label": 3,
-        "sentence_id": "2398126",
+        "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015c000-ce/o03DFDdLSBo6QUrVIBJeEfieOKFtTQAhHJF7gI~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=snsynbcraGg4pT4Pstk6YL0qes0%3D&from=3218412987",
+        "hot_value": 9189164,
+        "label": 0,
+        "sentence_id": "2397883",
         "video_count": 3,
-        "view_count": 54170813
+        "view_count": 57013598
       }
     },
     {
       "index": 9,
-      "title": "春节迷上在抖音看视频播客了",
-      "url": "https://www.douyin.com/search/%E6%98%A5%E8%8A%82%E8%BF%B7%E4%B8%8A%E5%9C%A8%E6%8A%96%E9%9F%B3%E7%9C%8B%E8%A7%86%E9%A2%91%E6%92%AD%E5%AE%A2%E4%BA%86?type=general",
-      "hot_value": "9183686",
+      "title": "我已经想好约会怎么搭了",
+      "url": "https://www.douyin.com/search/%E6%88%91%E5%B7%B2%E7%BB%8F%E6%83%B3%E5%A5%BD%E7%BA%A6%E4%BC%9A%E6%80%8E%E4%B9%88%E6%90%AD%E4%BA%86?type=general",
+      "hot_value": "9175053",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oAmSC3jiI1yLklPA9gvI7wme7Uf0GJE4BeOQq8~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=FVif8pHmEh6icbiupbR%2BVYK4NvE%3D&from=3218412987",
-        "hot_value": 9183686,
-        "label": 8,
-        "sentence_id": "2398486",
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocKE5QerEOxACNjBZNpDfAh9K0AFBEUghvTpIs~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=gYPQKjfDpb1tvyCF1WQkHWkexrc%3D&from=3218412987",
+        "hot_value": 9175053,
+        "label": 0,
+        "sentence_id": "2398092",
         "video_count": 3,
-        "view_count": 57454797
+        "view_count": 54816333
       }
     },
     {
       "index": 10,
       "title": "两艘美国海军舰艇发生碰撞",
       "url": "https://www.douyin.com/search/%E4%B8%A4%E8%89%98%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%88%B0%E8%89%87%E5%8F%91%E7%94%9F%E7%A2%B0%E6%92%9E?type=general",
-      "hot_value": "9170634",
+      "hot_value": "9154477",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oMg7vETA3Jom6Xw2GBQQRGLYfmHCxAeuIeB7w9~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=5j0PerQi%2F0Qq8Dwy1T1qqWETx5M%3D&from=3218412987",
-        "hot_value": 9170634,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMg7vETA3Jom6Xw2GBQQRGLYfmHCxAeuIeB7w9~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=k5QMr2a4Pt8o%2BLnAJ0KHk40F8wk%3D&from=3218412987",
+        "hot_value": 9154477,
         "label": 1,
         "sentence_id": "2398558",
-        "video_count": 2,
-        "view_count": 52447575
+        "video_count": 3,
+        "view_count": 54717141
       }
     },
     {
       "index": 11,
       "title": "在抖音读上名家春节作文选了",
       "url": "https://www.douyin.com/search/%E5%9C%A8%E6%8A%96%E9%9F%B3%E8%AF%BB%E4%B8%8A%E5%90%8D%E5%AE%B6%E6%98%A5%E8%8A%82%E4%BD%9C%E6%96%87%E9%80%89%E4%BA%86?type=general",
-      "hot_value": "9140086",
+      "hot_value": "9124403",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-i-jm8ajry58r/d8c63b6ee1d6453c823f2b534a568678~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=vvZVP%2Bjy4%2BtuqOBdNWFmTkl9lZY%3D&from=3218412987",
-        "hot_value": 9140086,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-i-jm8ajry58r/d8c63b6ee1d6453c823f2b534a568678~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=fp2okwpx5K07aWJAa%2F85R%2BCxbZw%3D&from=3218412987",
+        "hot_value": 9124403,
         "label": 8,
         "sentence_id": "2398297",
-        "video_count": 5,
-        "view_count": 52907337
+        "video_count": 10,
+        "view_count": 50160713
       }
     },
     {
       "index": 12,
       "title": "“重庆轨道交通跑熄火”不实",
       "url": "https://www.douyin.com/search/%E2%80%9C%E9%87%8D%E5%BA%86%E8%BD%A8%E9%81%93%E4%BA%A4%E9%80%9A%E8%B7%91%E7%86%84%E7%81%AB%E2%80%9D%E4%B8%8D%E5%AE%9E?type=general",
-      "hot_value": "9125813",
+      "hot_value": "9113566",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-i-dy/11dfbcac567045a4a0141fc4e560764c~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=7hFrccye%2FQfGNFwKBq%2BFyFsaCOE%3D&from=3218412987",
-        "hot_value": 9125813,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-i-dy/11dfbcac567045a4a0141fc4e560764c~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=zQ2sC4vKtu0fQCmhoB6z57LPYuY%3D&from=3218412987",
+        "hot_value": 9113566,
         "label": 16,
         "sentence_id": "2398580",
         "video_count": 1,
-        "view_count": 51365539
+        "view_count": 46593415
       }
     },
     {
       "index": 13,
       "title": "中方回应特朗普或将4月访华",
       "url": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E?type=general",
-      "hot_value": "9100183",
+      "hot_value": "9066700",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/okDBxNDA6sKBVM4aBKaeOvfJAGAiNhi0gEAIVI~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=pp7LBYfUB6hVQUTDJOA%2FT%2Bx6jAs%3D&from=3218412987",
-        "hot_value": 9100183,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/okDBxNDA6sKBVM4aBKaeOvfJAGAiNhi0gEAIVI~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=BU0%2FRV8Yo%2Bh33uMGHZGnopJ0WR8%3D&from=3218412987",
+        "hot_value": 9066700,
         "label": 3,
         "sentence_id": "2398243",
         "video_count": 2,
-        "view_count": 48851371
+        "view_count": 47140668
       }
     },
     {
       "index": 14,
       "title": "王者荣耀马年全明星表演赛",
       "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E9%A9%AC%E5%B9%B4%E5%85%A8%E6%98%8E%E6%98%9F%E8%A1%A8%E6%BC%94%E8%B5%9B?type=general",
-      "hot_value": "9041116",
+      "hot_value": "8893940",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/okLvhcEQQAgpl3jfKjFDafsPGJYlvAA1DBU9M5~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=0L52mJhkGh7lDd3CSXPADoM9BMM%3D&from=3218412987",
-        "hot_value": 9041116,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/okLvhcEQQAgpl3jfKjFDafsPGJYlvAA1DBU9M5~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=v9A9zBbgtG2zGWgAVT3%2FDZgzi80%3D&from=3218412987",
+        "hot_value": 8893940,
         "label": 6,
         "sentence_id": "2398246",
         "video_count": 8,
-        "view_count": 47109062
+        "view_count": 48428002
       }
     },
     {
       "index": 15,
       "title": "欧盟对一款中国品牌SUV免征关税",
       "url": "https://www.douyin.com/search/%E6%AC%A7%E7%9B%9F%E5%AF%B9%E4%B8%80%E6%AC%BE%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8CSUV%E5%85%8D%E5%BE%81%E5%85%B3%E7%A8%8E?type=general",
-      "hot_value": "8930588",
+      "hot_value": "8772988",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/osTFaobXeCYQwAF76B8QnKKFPGBQAffUxRBDEk~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=g1e%2F3BShJZAlTzAX%2F63DaBiCGfs%3D&from=3218412987",
-        "hot_value": 8930588,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/osTFaobXeCYQwAF76B8QnKKFPGBQAffUxRBDEk~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=4IRi0Twyatz3QQaJshDtRdqAl8U%3D&from=3218412987",
+        "hot_value": 8772988,
         "label": 3,
         "sentence_id": "2398225",
         "video_count": 1,
-        "view_count": 43837946
+        "view_count": 43845722
       }
     },
     {
       "index": 16,
-      "title": "王者小火人新春联动",
-      "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E5%B0%8F%E7%81%AB%E4%BA%BA%E6%96%B0%E6%98%A5%E8%81%94%E5%8A%A8?type=general",
-      "hot_value": "8832780",
+      "title": "为什么美国人说中国人是精灵族",
+      "url": "https://www.douyin.com/search/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%AF%B4%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%98%AF%E7%B2%BE%E7%81%B5%E6%97%8F?type=general",
+      "hot_value": "8493800",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/osABJeO0f0Tg8CBrNoMnZgbpGG67QVXAC38Bof~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=zzDZqfRZOZt9iSIaAhAvsujFkZc%3D&from=3218412987",
-        "hot_value": 8832780,
-        "label": 8,
-        "sentence_id": "2397901",
-        "video_count": 10,
-        "view_count": 43373235
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/osh9fjESV0dTtNCOAYi6WcgIDfAcFACtHBIpVI~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=ZR1XDI%2FEb2Im3fDMmQW5IZFetA8%3D&from=3218412987",
+        "hot_value": 8493800,
+        "label": 0,
+        "sentence_id": "2398088",
+        "video_count": 1,
+        "view_count": 49147276
       }
     },
     {
       "index": 17,
-      "title": "廉子文向荷兰选手致歉反遭挥打",
-      "url": "https://www.douyin.com/search/%E5%BB%89%E5%AD%90%E6%96%87%E5%90%91%E8%8D%B7%E5%85%B0%E9%80%89%E6%89%8B%E8%87%B4%E6%AD%89%E5%8F%8D%E9%81%AD%E6%8C%A5%E6%89%93?type=general",
-      "hot_value": "8795245",
+      "title": "王者小火人新春联动",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E5%B0%8F%E7%81%AB%E4%BA%BA%E6%96%B0%E6%98%A5%E8%81%94%E5%8A%A8?type=general",
+      "hot_value": "8292932",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/owKlTJQeCCMzgeA5IGeBCZ0Nk8XH7GzQi3Md8z~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=NdOawX5aIjQa5OwRslrCLuS4Td8%3D&from=3218412987",
-        "hot_value": 8795245,
-        "label": 3,
-        "sentence_id": "2397773",
-        "video_count": 7,
-        "view_count": 44593749
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/osABJeO0f0Tg8CBrNoMnZgbpGG67QVXAC38Bof~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=9%2FaWVCGpL%2BwvuLsWpyxE53gABjg%3D&from=3218412987",
+        "hot_value": 8292932,
+        "label": 8,
+        "sentence_id": "2397901",
+        "video_count": 10,
+        "view_count": 43773192
       }
     },
     {
       "index": 18,
-      "title": "过年在家当秀场主理人",
-      "url": "https://www.douyin.com/search/%E8%BF%87%E5%B9%B4%E5%9C%A8%E5%AE%B6%E5%BD%93%E7%A7%80%E5%9C%BA%E4%B8%BB%E7%90%86%E4%BA%BA?type=general",
-      "hot_value": "8682905",
+      "title": "廉子文向荷兰选手致歉反遭挥打",
+      "url": "https://www.douyin.com/search/%E5%BB%89%E5%AD%90%E6%96%87%E5%90%91%E8%8D%B7%E5%85%B0%E9%80%89%E6%89%8B%E8%87%B4%E6%AD%89%E5%8F%8D%E9%81%AD%E6%8C%A5%E6%89%93?type=general",
+      "hot_value": "8284252",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/okdggfEgUfQIJfTIOX4jBWQWnMEG8pAX7HDx4Q~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=4k9twooGfDnUzzB1KsadDMPyb2E%3D&from=3218412987",
-        "hot_value": 8682905,
-        "label": 5,
-        "sentence_id": "2398026",
-        "video_count": 3,
-        "view_count": 41231864
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/owKlTJQeCCMzgeA5IGeBCZ0Nk8XH7GzQi3Md8z~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=k3H0%2FtPqBLJdJw6DBz0vhnnCo7c%3D&from=3218412987",
+        "hot_value": 8284252,
+        "label": 3,
+        "sentence_id": "2397773",
+        "video_count": 7,
+        "view_count": 43533328
       }
     },
     {
       "index": 19,
-      "title": "炸年货安排上了",
-      "url": "https://www.douyin.com/search/%E7%82%B8%E5%B9%B4%E8%B4%A7%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86?type=general",
-      "hot_value": "8449816",
+      "title": "过年在家当秀场主理人",
+      "url": "https://www.douyin.com/search/%E8%BF%87%E5%B9%B4%E5%9C%A8%E5%AE%B6%E5%BD%93%E7%A7%80%E5%9C%BA%E4%B8%BB%E7%90%86%E4%BA%BA?type=general",
+      "hot_value": "8044604",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMKMkGUEjZ9OHQAQvBFpARaDw2nbfE8gfEjASq~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=Xtm4yYWmQB%2Ff7jnuR%2FmwrGo3pcA%3D&from=3218412987",
-        "hot_value": 8449816,
-        "label": 3,
-        "sentence_id": "2397438",
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/okdggfEgUfQIJfTIOX4jBWQWnMEG8pAX7HDx4Q~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=Gt3%2BQkie12xaghC8GRNcla%2Fxqc0%3D&from=3218412987",
+        "hot_value": 8044604,
+        "label": 5,
+        "sentence_id": "2398026",
         "video_count": 3,
-        "view_count": 42586438
+        "view_count": 39331200
       }
     },
     {
       "index": 20,
-      "title": "Seedance2.0展示中国AI潜力",
-      "url": "https://www.douyin.com/search/Seedance2.0%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9B%BDAI%E6%BD%9C%E5%8A%9B?type=general",
-      "hot_value": "8395038",
+      "title": "炸年货安排上了",
+      "url": "https://www.douyin.com/search/%E7%82%B8%E5%B9%B4%E8%B4%A7%E5%AE%89%E6%8E%92%E4%B8%8A%E4%BA%86?type=general",
+      "hot_value": "7828537",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-i-jm8ajry58r/f691352567ec49d0b3a0715aba7b52f0~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=ZM0I8AkaWJBL%2BQNOq2Pi0dm%2F7rY%3D&from=3218412987",
-        "hot_value": 8395038,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMKMkGUEjZ9OHQAQvBFpARaDw2nbfE8gfEjASq~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=NME%2FoBnMw52%2BYZwKCFbcJh%2BXWRQ%3D&from=3218412987",
+        "hot_value": 7828537,
         "label": 3,
-        "sentence_id": "2398167",
+        "sentence_id": "2397438",
         "video_count": 3,
-        "view_count": 38216449
+        "view_count": 40368410
       }
     },
     {
       "index": 21,
-      "title": "骑士大胜奇才",
-      "url": "https://www.douyin.com/search/%E9%AA%91%E5%A3%AB%E5%A4%A7%E8%83%9C%E5%A5%87%E6%89%8D?type=general",
-      "hot_value": "8394848",
+      "title": "去一个年味拉满的城市过年",
+      "url": "https://www.douyin.com/search/%E5%8E%BB%E4%B8%80%E4%B8%AA%E5%B9%B4%E5%91%B3%E6%8B%89%E6%BB%A1%E7%9A%84%E5%9F%8E%E5%B8%82%E8%BF%87%E5%B9%B4?type=general",
+      "hot_value": "7813703",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-i-0813c000-ce/oICAq093IEPBMPkRTMaiANBqbxiFBAY3vAJAl~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=vSj0Kz2R1cHZ%2Ft5Ezldwj5JAnZ0%3D&from=3218412987",
-        "hot_value": 8394848,
-        "label": 3,
-        "sentence_id": "2397768",
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/okla5KIlKiCBMlMwBljz6rMYI4iAniotLaAPP~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=2cG3MAuFP74MTBhCNCeJ2QpH%2Bgg%3D&from=3218412987",
+        "hot_value": 7813703,
+        "label": 0,
+        "sentence_id": "2396819",
         "video_count": 3,
-        "view_count": 39199113
+        "view_count": 37060425
       }
     },
     {
       "index": 22,
-      "title": "终于等到张函瑞跳自己的进行曲",
-      "url": "https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E5%BC%A0%E5%87%BD%E7%91%9E%E8%B7%B3%E8%87%AA%E5%B7%B1%E7%9A%84%E8%BF%9B%E8%A1%8C%E6%9B%B2?type=general",
-      "hot_value": "8272683",
+      "title": "央行将开展10000亿逆回购操作",
+      "url": "https://www.douyin.com/search/%E5%A4%AE%E8%A1%8C%E5%B0%86%E5%BC%80%E5%B1%9510000%E4%BA%BF%E9%80%86%E5%9B%9E%E8%B4%AD%E6%93%8D%E4%BD%9C?type=general",
+      "hot_value": "7807045",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUijDf2MAEAoQleBLJpwFBlYQI9HAvqc0EH1Ft~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=iNQ038hxkdkaX9chDcfUTOndRzo%3D&from=3218412987",
-        "hot_value": 8272683,
-        "label": 17,
-        "sentence_id": "2397590",
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/owCJAnHGMLOlfBzDITIGvTeLIY4FApftBGNz47~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=sfKYG%2BurgyMp1AdUYYp4lCG1hAk%3D&from=3218412987",
+        "hot_value": 7807045,
+        "label": 1,
+        "sentence_id": "2398468",
         "video_count": 3,
-        "view_count": 35457349
+        "view_count": 39861518
       }
     },
     {
       "index": 23,
-      "title": "正部级“女老虎”王莉霞被双开",
-      "url": "https://www.douyin.com/search/%E6%AD%A3%E9%83%A8%E7%BA%A7%E2%80%9C%E5%A5%B3%E8%80%81%E8%99%8E%E2%80%9D%E7%8E%8B%E8%8E%89%E9%9C%9E%E8%A2%AB%E5%8F%8C%E5%BC%80?type=general",
-      "hot_value": "8153384",
+      "title": "王欣然张楚桐范可新500米决赛见",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E6%AC%A3%E7%84%B6%E5%BC%A0%E6%A5%9A%E6%A1%90%E8%8C%83%E5%8F%AF%E6%96%B0500%E7%B1%B3%E5%86%B3%E8%B5%9B%E8%A7%81?type=general",
+      "hot_value": "7765737",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ogQaQHAg9wCjAfDpKFElfNCUoAkADEDgDZWABi~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=wHz1QhIawIjYUn8aNwWnTwiobOM%3D&from=3218412987",
-        "hot_value": 8153384,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/o0YIgizCeiUE0AEfLbaxqYQl7NJBABiDDO7AQW~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=sGJq%2FeziadHC1KmtgeNyLoQdSoY%3D&from=3218412987",
+        "hot_value": 7765737,
         "label": 0,
-        "sentence_id": "2398063",
-        "video_count": 2,
-        "view_count": 38248818
+        "sentence_id": "2398357",
+        "video_count": 4,
+        "view_count": 34698136
       }
     },
     {
       "index": 24,
-      "title": "U17国足3:2绝杀印尼",
-      "url": "https://www.douyin.com/search/U17%E5%9B%BD%E8%B6%B33%3A2%E7%BB%9D%E6%9D%80%E5%8D%B0%E5%B0%BC?type=general",
-      "hot_value": "8114117",
+      "title": "郑钦文惜败莱巴金娜",
+      "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E6%83%9C%E8%B4%A5%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C?type=general",
+      "hot_value": "7751978",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/ogTViXbqiXyuDhMBMPAB3Xa4xAIWPgLntENsY~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=GnUbexGE5hY%2FhdQuqiT16whGLH4%3D&from=3218412987",
-        "hot_value": 8114117,
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQf83NqNjBAF8oJIBIt2j7ACfk0gUpZHDA9MEW~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=dnqTPWrmXeyBOGCUwcyo9sEKDww%3D&from=3218412987",
+        "hot_value": 7751978,
         "label": 0,
-        "sentence_id": "2397506",
+        "sentence_id": "2397719",
         "video_count": 3,
-        "view_count": 35507980
+        "view_count": 36061269
       }
     },
     {
       "index": 25,
-      "title": "湖南卫视春晚",
-      "url": "https://www.douyin.com/search/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A?type=general",
-      "hot_value": "7970185",
+      "title": "你只管走幸福随处可见",
+      "url": "https://www.douyin.com/search/%E4%BD%A0%E5%8F%AA%E7%AE%A1%E8%B5%B0%E5%B9%B8%E7%A6%8F%E9%9A%8F%E5%A4%84%E5%8F%AF%E8%A7%81?type=general",
+      "hot_value": "7746611",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/okkLrkAEgIj9rWEBGNTBMGXCGhshaNeeAAlLe7~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=bhn%2BpvfLLFqjzKqHs%2FzsjOLkLp4%3D&from=3218412987",
-        "hot_value": 7970185,
-        "label": 3,
-        "sentence_id": "2397457",
-        "video_count": 4,
-        "view_count": 35388232
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oU6YBcfDaE1F7ETBe9UsCFBfLCdAuEXzFCTRIA~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=N6Ysm8uTmnpWI9Lm5SWNJN9Tsn4%3D&from=3218412987",
+        "hot_value": 7746611,
+        "label": 0,
+        "sentence_id": "2396978",
+        "video_count": 3,
+        "view_count": 35453619
       }
     },
     {
       "index": 26,
-      "title": "郑钦文惜败莱巴金娜",
-      "url": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E6%83%9C%E8%B4%A5%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C?type=general",
-      "hot_value": "7889500",
+      "title": "过年第一批烫发的人已安全下车",
+      "url": "https://www.douyin.com/search/%E8%BF%87%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%89%B9%E7%83%AB%E5%8F%91%E7%9A%84%E4%BA%BA%E5%B7%B2%E5%AE%89%E5%85%A8%E4%B8%8B%E8%BD%A6?type=general",
+      "hot_value": "7739946",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQf83NqNjBAF8oJIBIt2j7ACfk0gUpZHDA9MEW~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=292iEP9klXsVIvY%2Bgx%2BlikVQpOM%3D&from=3218412987",
-        "hot_value": 7889500,
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oQAACz5T0I0QKBwiBc4MBIOhNxKesr9gwfcASj~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=pOphJs%2FLhZUQ5NmuWrSjMknd%2Fcg%3D&from=3218412987",
+        "hot_value": 7739946,
         "label": 0,
-        "sentence_id": "2397719",
+        "sentence_id": "2396805",
         "video_count": 3,
-        "view_count": 31203753
+        "view_count": 31958053
       }
     },
     {
       "index": 27,
-      "title": "我已经想好约会怎么搭了",
-      "url": "https://www.douyin.com/search/%E6%88%91%E5%B7%B2%E7%BB%8F%E6%83%B3%E5%A5%BD%E7%BA%A6%E4%BC%9A%E6%80%8E%E4%B9%88%E6%90%AD%E4%BA%86?type=general",
-      "hot_value": "7826872",
+      "title": "长征十号箭体落点并非失误",
+      "url": "https://www.douyin.com/search/%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E7%AE%AD%E4%BD%93%E8%90%BD%E7%82%B9%E5%B9%B6%E9%9D%9E%E5%A4%B1%E8%AF%AF?type=general",
+      "hot_value": "7736977",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocKE5QerEOxACNjBZNpDfAh9K0AFBEUghvTpIs~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=%2BYFGmeV%2BXGxavgzO%2BA5IPqYMTk8%3D&from=3218412987",
-        "hot_value": 7826872,
-        "label": 0,
-        "sentence_id": "2398092",
-        "video_count": 3,
-        "view_count": 29479993
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocLiLDXn0KAYZlbMBwiigRBQAxAeP6PIIXf1Dk~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=nttB8IG1oZwAhutwnnMlopSiGjE%3D&from=3218412987",
+        "hot_value": 7736977,
+        "label": 3,
+        "sentence_id": "2397653",
+        "video_count": 4,
+        "view_count": 28638342
       }
     },
     {
       "index": 28,
-      "title": "2026我的爆红穿搭攻略",
-      "url": "https://www.douyin.com/search/2026%E6%88%91%E7%9A%84%E7%88%86%E7%BA%A2%E7%A9%BF%E6%90%AD%E6%94%BB%E7%95%A5?type=general",
-      "hot_value": "7787167",
+      "title": "随时随地bigguy起来",
+      "url": "https://www.douyin.com/search/%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0bigguy%E8%B5%B7%E6%9D%A5?type=general",
+      "hot_value": "7731418",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oM6A39CfGQUD2XOpAHLSQf7XTDexToJQImgiBF~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=O%2B6ysZ5oM7h7gWS%2F5O5HCMT0hBY%3D&from=3218412987",
-        "hot_value": 7787167,
-        "label": 0,
-        "sentence_id": "2396802",
-        "video_count": 3,
-        "view_count": 30773487
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/o8yDQUFJh3DVXd7MAEDAQcjz9EpghBeAMIEqfg~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=MW%2BlGQ1ndTZyN2OUR3H0Ys7b5Yg%3D&from=3218412987",
+        "hot_value": 7731418,
+        "label": 9,
+        "sentence_id": "2397659",
+        "video_count": 10,
+        "view_count": 28008911
       }
     },
     {
       "index": 29,
-      "title": "去一个年味拉满的城市过年",
-      "url": "https://www.douyin.com/search/%E5%8E%BB%E4%B8%80%E4%B8%AA%E5%B9%B4%E5%91%B3%E6%8B%89%E6%BB%A1%E7%9A%84%E5%9F%8E%E5%B8%82%E8%BF%87%E5%B9%B4?type=general",
-      "hot_value": "7780731",
+      "title": "丁程鑫贺峻霖误闯时家的日常",
+      "url": "https://www.douyin.com/search/%E4%B8%81%E7%A8%8B%E9%91%AB%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%AF%AF%E9%97%AF%E6%97%B6%E5%AE%B6%E7%9A%84%E6%97%A5%E5%B8%B8?type=general",
+      "hot_value": "7728753",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/okla5KIlKiCBMlMwBljz6rMYI4iAniotLaAPP~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=OkPHh9%2FTm6HPGjltY%2BL7%2FNXU7nw%3D&from=3218412987",
-        "hot_value": 7780731,
-        "label": 0,
-        "sentence_id": "2396819",
-        "video_count": 3,
-        "view_count": 28432653
+        "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/o8sqfADjaJcAfF9Ep0UENMNAgQ5bBkyQKPvZEI~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=sApdvve4inefP7TPFizMEta2w0A%3D&from=3218412987",
+        "hot_value": 7728753,
+        "label": 3,
+        "sentence_id": "2398365",
+        "video_count": 1,
+        "view_count": 27694024
       }
     },
     {
       "index": 30,
-      "title": "王欣然张楚桐范可新500米决赛见",
-      "url": "https://www.douyin.com/search/%E7%8E%8B%E6%AC%A3%E7%84%B6%E5%BC%A0%E6%A5%9A%E6%A1%90%E8%8C%83%E5%8F%AF%E6%96%B0500%E7%B1%B3%E5%86%B3%E8%B5%9B%E8%A7%81?type=general",
-      "hot_value": "7774042",
+      "title": "王玉雯敖瑞鹏在和平精英搞抽象",
+      "url": "https://www.douyin.com/search/%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%95%96%E7%91%9E%E9%B9%8F%E5%9C%A8%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E6%90%9E%E6%8A%BD%E8%B1%A1?type=general",
+      "hot_value": "7724073",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/o0YIgizCeiUE0AEfLbaxqYQl7NJBABiDDO7AQW~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=n%2F88blUmCMyJuy6gbBxu9LOkrQ0%3D&from=3218412987",
-        "hot_value": 7774042,
-        "label": 0,
-        "sentence_id": "2398357",
-        "video_count": 4,
-        "view_count": 27093467
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/osfGPgslYpTAcWleVsIZCLGB7BzGiAQadQeMLz~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=9dgnK95xR6Eye9zOtlA6WtD41yE%3D&from=3218412987",
+        "hot_value": 7724073,
+        "label": 8,
+        "sentence_id": "2398250",
+        "video_count": 3,
+        "view_count": 26244293
       }
     },
     {
       "index": 31,
-      "title": "过年第一批烫发的人已安全下车",
-      "url": "https://www.douyin.com/search/%E8%BF%87%E5%B9%B4%E7%AC%AC%E4%B8%80%E6%89%B9%E7%83%AB%E5%8F%91%E7%9A%84%E4%BA%BA%E5%B7%B2%E5%AE%89%E5%85%A8%E4%B8%8B%E8%BD%A6?type=general",
-      "hot_value": "7759124",
+      "title": "杨幂惊蛰无声身份不详穿搭超强",
+      "url": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E8%BA%AB%E4%BB%BD%E4%B8%8D%E8%AF%A6%E7%A9%BF%E6%90%AD%E8%B6%85%E5%BC%BA?type=general",
+      "hot_value": "7720006",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oQAACz5T0I0QKBwiBc4MBIOhNxKesr9gwfcASj~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=dPRvZN%2FKa6u7qe%2FF%2FJIR9DweR1s%3D&from=3218412987",
-        "hot_value": 7759124,
-        "label": 0,
-        "sentence_id": "2396805",
-        "video_count": 3,
-        "view_count": 24099844
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oQPeIAeTw064uUqMjmBSIB5ngDivA0Akx8BD3i~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=V%2BJE44pEO2ysYxd6SmJsIXXQ7AU%3D&from=3218412987",
+        "hot_value": 7720006,
+        "label": 5,
+        "sentence_id": "2398052",
+        "video_count": 2,
+        "view_count": 25522001
       }
     },
     {
       "index": 32,
-      "title": "冰糖葫芦在东北是道填空题",
-      "url": "https://www.douyin.com/search/%E5%86%B0%E7%B3%96%E8%91%AB%E8%8A%A6%E5%9C%A8%E4%B8%9C%E5%8C%97%E6%98%AF%E9%81%93%E5%A1%AB%E7%A9%BA%E9%A2%98?type=general",
-      "hot_value": "7746245",
+      "title": "年味都藏在了美味里",
+      "url": "https://www.douyin.com/search/%E5%B9%B4%E5%91%B3%E9%83%BD%E8%97%8F%E5%9C%A8%E4%BA%86%E7%BE%8E%E5%91%B3%E9%87%8C?type=general",
+      "hot_value": "7717993",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/oMvATihIABAJiLsxSVPbCaMYUwAYEJAqqB0lC~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=qlu1O2SCv5%2BAE6HNb01MsJIkins%3D&from=3218412987",
-        "hot_value": 7746245,
-        "label": 0,
-        "sentence_id": "2398222",
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ooBbHnQAaKAWwQBH8U77MG8fsCMxBCAQfIfTdY~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=v08Ed5zvwkckrGcxZLPPkODfaN8%3D&from=3218412987",
+        "hot_value": 7717993,
+        "label": 3,
+        "sentence_id": "2397627",
         "video_count": 3,
-        "view_count": 21583315
+        "view_count": 21097564
       }
     },
     {
       "index": 33,
-      "title": "杨幂惊蛰无声身份不详穿搭超强",
-      "url": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E8%BA%AB%E4%BB%BD%E4%B8%8D%E8%AF%A6%E7%A9%BF%E6%90%AD%E8%B6%85%E5%BC%BA?type=general",
-      "hot_value": "7743457",
+      "title": "马达加斯加宣布进入国家灾难状态",
+      "url": "https://www.douyin.com/search/%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81?type=general",
+      "hot_value": "7714966",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oQPeIAeTw064uUqMjmBSIB5ngDivA0Akx8BD3i~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=%2B6QbJcSoBlYKY3A2Vt6bzFdKYSI%3D&from=3218412987",
-        "hot_value": 7743457,
-        "label": 5,
-        "sentence_id": "2398052",
-        "video_count": 2,
-        "view_count": 22809075
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oUiA5hpNBE92EmvAFYAsbQQDbgfDjuIBmLfpNz~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=6IUek8xHcKCaWLxHaxRZZh87GL4%3D&from=3218412987",
+        "hot_value": 7714966,
+        "label": 0,
+        "sentence_id": "2398283",
+        "video_count": 1,
+        "view_count": 23212334
       }
     },
     {
       "index": 34,
-      "title": "随时随地bigguy起来",
-      "url": "https://www.douyin.com/search/%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0bigguy%E8%B5%B7%E6%9D%A5?type=general",
-      "hot_value": "7740763",
+      "title": "蔡徐坤MV纪录片Colder",
+      "url": "https://www.douyin.com/search/%E8%94%A1%E5%BE%90%E5%9D%A4MV%E7%BA%AA%E5%BD%95%E7%89%87Colder?type=general",
+      "hot_value": "7703513",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/o8yDQUFJh3DVXd7MAEDAQcjz9EpghBeAMIEqfg~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=ODHmj2PRZuguN7aWBzO8W2zDWMU%3D&from=3218412987",
-        "hot_value": 7740763,
-        "label": 9,
-        "sentence_id": "2397659",
-        "video_count": 10,
-        "view_count": 20873277
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oU2VINiBC1fA875AM0pNAhQI3yim1eAxa0BVmg~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=cIzYkliOdBBQXmCgXQy0oG%2FTKwg%3D&from=3218412987",
+        "hot_value": 7703513,
+        "label": 3,
+        "sentence_id": "2398061",
+        "video_count": 1,
+        "view_count": 20371517
       }
     },
     {
       "index": 35,
-      "title": "年味都藏在了美味里",
-      "url": "https://www.douyin.com/search/%E5%B9%B4%E5%91%B3%E9%83%BD%E8%97%8F%E5%9C%A8%E4%BA%86%E7%BE%8E%E5%91%B3%E9%87%8C?type=general",
-      "hot_value": "7738178",
+      "title": "邓超向范志毅借粉借到体育界",
+      "url": "https://www.douyin.com/search/%E9%82%93%E8%B6%85%E5%90%91%E8%8C%83%E5%BF%97%E6%AF%85%E5%80%9F%E7%B2%89%E5%80%9F%E5%88%B0%E4%BD%93%E8%82%B2%E7%95%8C?type=general",
+      "hot_value": "7701356",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ooBbHnQAaKAWwQBH8U77MG8fsCMxBCAQfIfTdY~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=9jyQBxc1Jh3FbGy4UOiHMc7X1gk%3D&from=3218412987",
-        "hot_value": 7738178,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oIEQaQ9cAAufBzmZ7FfzfTDCLUFccEBD4UmoJX~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=vRdY8QsPbweywwh5HHmXABe%2BWo4%3D&from=3218412987",
+        "hot_value": 7701356,
         "label": 3,
-        "sentence_id": "2397627",
-        "video_count": 3,
-        "view_count": 20290497
+        "sentence_id": "2397896",
+        "video_count": 1,
+        "view_count": 22286538
       }
     },
     {
       "index": 36,
-      "title": "王玉雯敖瑞鹏在和平精英搞抽象",
-      "url": "https://www.douyin.com/search/%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%95%96%E7%91%9E%E9%B9%8F%E5%9C%A8%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E6%90%9E%E6%8A%BD%E8%B1%A1?type=general",
-      "hot_value": "7736133",
+      "title": "U17男足亚洲杯分组出炉",
+      "url": "https://www.douyin.com/search/U17%E7%94%B7%E8%B6%B3%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%88%86%E7%BB%84%E5%87%BA%E7%82%89?type=general",
+      "hot_value": "7698194",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/osfGPgslYpTAcWleVsIZCLGB7BzGiAQadQeMLz~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=MKxXdXACmu1ByoKqTf3y%2Fe0TfNg%3D&from=3218412987",
-        "hot_value": 7736133,
-        "label": 8,
-        "sentence_id": "2398250",
-        "video_count": 3,
-        "view_count": 18613131
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogsI2ICAv0hQhU8GAaTQQPjTBENHiiYKIxB1D~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=%2BmvgH7CDDW9YolBb%2B%2BwBy56vpH0%3D&from=3218412987",
+        "hot_value": 7698194,
+        "label": 3,
+        "sentence_id": "2398289",
+        "video_count": 5,
+        "view_count": 20226509
       }
     },
     {
       "index": 37,
-      "title": "小鹿乱撞手势舞",
-      "url": "https://www.douyin.com/search/%E5%B0%8F%E9%B9%BF%E4%B9%B1%E6%92%9E%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
-      "hot_value": "7734401",
+      "title": "美联储降息再迎来变数",
+      "url": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%E5%86%8D%E8%BF%8E%E6%9D%A5%E5%8F%98%E6%95%B0?type=general",
+      "hot_value": "7690165",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocgBWLTsmCZuBVGegeIhfELAITbC0FXvrU3A7m~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=rd6jR5GBJLN24P3TjPtWY7WR85I%3D&from=3218412987",
-        "hot_value": 7734401,
-        "label": 9,
-        "sentence_id": "2397336",
-        "video_count": 10,
-        "view_count": 17520526
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogaNPAlhpIIYFBQtEyi6aiSFIPGPANag0j1g3~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=ifcUPyM0B57LsQ5l%2BIyuq3IN37c%3D&from=3218412987",
+        "hot_value": 7690165,
+        "label": 3,
+        "sentence_id": "2397729",
+        "video_count": 3,
+        "view_count": 18533173
       }
     },
     {
       "index": 38,
-      "title": "丁程鑫贺峻霖误闯时家的日常",
-      "url": "https://www.douyin.com/search/%E4%B8%81%E7%A8%8B%E9%91%AB%E8%B4%BA%E5%B3%BB%E9%9C%96%E8%AF%AF%E9%97%AF%E6%97%B6%E5%AE%B6%E7%9A%84%E6%97%A5%E5%B8%B8?type=general",
-      "hot_value": "7730129",
+      "title": "小鹿乱撞手势舞",
+      "url": "https://www.douyin.com/search/%E5%B0%8F%E9%B9%BF%E4%B9%B1%E6%92%9E%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
+      "hot_value": "7689634",
       "extra": {
-        "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/o8sqfADjaJcAfF9Ep0UENMNAgQ5bBkyQKPvZEI~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=ldG48krFG4nRVdQVJ71%2FvenunZQ%3D&from=3218412987",
-        "hot_value": 7730129,
-        "label": 0,
-        "sentence_id": "2398365",
-        "video_count": 1,
-        "view_count": 13932259
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocgBWLTsmCZuBVGegeIhfELAITbC0FXvrU3A7m~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=QKa51BGrQgGJmVTpmg6y9oIAnYc%3D&from=3218412987",
+        "hot_value": 7689634,
+        "label": 9,
+        "sentence_id": "2397336",
+        "video_count": 10,
+        "view_count": 15089965
       }
     },
     {
       "index": 39,
-      "title": "蔡徐坤MV纪录片Colder",
-      "url": "https://www.douyin.com/search/%E8%94%A1%E5%BE%90%E5%9D%A4MV%E7%BA%AA%E5%BD%95%E7%89%87Colder?type=general",
-      "hot_value": "7726789",
+      "title": "可爱颂手势舞挑战",
+      "url": "https://www.douyin.com/search/%E5%8F%AF%E7%88%B1%E9%A2%82%E6%89%8B%E5%8A%BF%E8%88%9E%E6%8C%91%E6%88%98?type=general",
+      "hot_value": "7688437",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oU2VINiBC1fA875AM0pNAhQI3yim1eAxa0BVmg~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=Vq6%2FkSeGXyXpoKtU8XZmCo%2FkDBo%3D&from=3218412987",
-        "hot_value": 7726789,
-        "label": 3,
-        "sentence_id": "2398061",
-        "video_count": 1,
-        "view_count": 13495622
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oEqB38ZfWNU0iAA5E9uKeXhBgixAC4AVmGxqIk~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=6mnRl0LH8HXKWqAVDc%2By%2B4rJGAY%3D&from=3218412987",
+        "hot_value": 7688437,
+        "label": 9,
+        "sentence_id": "2398444",
+        "video_count": 10,
+        "view_count": 13215487
       }
     },
     {
       "index": 40,
-      "title": "刘宇少年将军",
-      "url": "https://www.douyin.com/search/%E5%88%98%E5%AE%87%E5%B0%91%E5%B9%B4%E5%B0%86%E5%86%9B?type=general",
-      "hot_value": "7722387",
+      "title": "蛋仔雷霆小曲",
+      "url": "https://www.douyin.com/search/%E8%9B%8B%E4%BB%94%E9%9B%B7%E9%9C%86%E5%B0%8F%E6%9B%B2?type=general",
+      "hot_value": "7685763",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oslQcNIMQiygD6IOBiOgc2XYIwiA4EzSFaAPP~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=iDPdQfk51HzDoiK%2FMNAQxAZhjeA%3D&from=3218412987",
-        "hot_value": 7722387,
-        "label": 1,
-        "sentence_id": "2398435",
-        "video_count": 2,
-        "view_count": 12401838
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oc2QEBAFkQF6U7LApfBCHfQZPKnbDfQCa7jTUJ~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=CHloBnLMnBo09fKjTou%2FwaidER4%3D&from=3218412987",
+        "hot_value": 7685763,
+        "label": 9,
+        "sentence_id": "2398376",
+        "video_count": 10,
+        "view_count": 12039415
       }
     },
     {
       "index": 41,
-      "title": "邓超向范志毅借粉借到体育界",
-      "url": "https://www.douyin.com/search/%E9%82%93%E8%B6%85%E5%90%91%E8%8C%83%E5%BF%97%E6%AF%85%E5%80%9F%E7%B2%89%E5%80%9F%E5%88%B0%E4%BD%93%E8%82%B2%E7%95%8C?type=general",
-      "hot_value": "7721259",
+      "title": "吴京回应网友喊话多拍武侠片",
+      "url": "https://www.douyin.com/search/%E5%90%B4%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%96%8A%E8%AF%9D%E5%A4%9A%E6%8B%8D%E6%AD%A6%E4%BE%A0%E7%89%87?type=general",
+      "hot_value": "7681740",
       "extra": {
-        "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/oIEQaQ9cAAufBzmZ7FfzfTDCLUFccEBD4UmoJX~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=DS7yQ5X20PsPkZ8KkJ58x8yZDBE%3D&from=3218412987",
-        "hot_value": 7721259,
-        "label": 0,
-        "sentence_id": "2397896",
-        "video_count": 1,
-        "view_count": 11599215
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYq3ViJAiIOEgJx5lMfVgwwAeXO40BNbABnvB5~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=YNtjlN9aCtjGJ2JKCEGPexlwFLg%3D&from=3218412987",
+        "hot_value": 7681740,
+        "label": 8,
+        "sentence_id": "2398313",
+        "video_count": 3,
+        "view_count": 11288639
       }
     },
     {
       "index": 42,
-      "title": "宁忠岩速滑男子1000米夺铜",
-      "url": "https://www.douyin.com/search/%E5%AE%81%E5%BF%A0%E5%B2%A9%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%901000%E7%B1%B3%E5%A4%BA%E9%93%9C?type=general",
-      "hot_value": "7714176",
+      "title": "严浩翔日常过了小年就是年",
+      "url": "https://www.douyin.com/search/%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%97%A5%E5%B8%B8%E8%BF%87%E4%BA%86%E5%B0%8F%E5%B9%B4%E5%B0%B1%E6%98%AF%E5%B9%B4?type=general",
+      "hot_value": "7679837",
       "extra": {
-        "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/oMTG4lZVg3acCLXBQJnzFBAfE7LagEekeAlGrI~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=ntQi6h2TeCO8OfLi%2FH8sP0BQgXM%3D&from=3218412987",
-        "hot_value": 7714176,
-        "label": 0,
-        "sentence_id": "2397674",
-        "video_count": 7,
-        "view_count": 10681823
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUNAKOFjfEDDlqBAsUHwfuEspNIg9zBEeZzZmC~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=nESe4Q%2F7PBSvHdGPj83B%2FhIOjLY%3D&from=3218412987",
+        "hot_value": 7679837,
+        "label": 17,
+        "sentence_id": "2398485",
+        "video_count": 3,
+        "view_count": 11492363
       }
     },
     {
       "index": 43,
-      "title": "长征十号箭体落点并非失误",
-      "url": "https://www.douyin.com/search/%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E7%AE%AD%E4%BD%93%E8%90%BD%E7%82%B9%E5%B9%B6%E9%9D%9E%E5%A4%B1%E8%AF%AF?type=general",
-      "hot_value": "7711194",
+      "title": "飞驰3当年的叶经理又回来了",
+      "url": "https://www.douyin.com/search/%E9%A3%9E%E9%A9%B03%E5%BD%93%E5%B9%B4%E7%9A%84%E5%8F%B6%E7%BB%8F%E7%90%86%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86?type=general",
+      "hot_value": "7678672",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocLiLDXn0KAYZlbMBwiigRBQAxAeP6PIIXf1Dk~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=Ikz0tbw45qFScKLmZzKJ1SEebY0%3D&from=3218412987",
-        "hot_value": 7711194,
-        "label": 3,
-        "sentence_id": "2397653",
-        "video_count": 4,
-        "view_count": 9229743
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oMoKeWCZ0INWAiA6xBxiJ6NiIaBBTYAQdgf2th~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=7oEvb%2FLfhwtKNtZCttc2fw2FVsk%3D&from=3218412987",
+        "hot_value": 7678672,
+        "label": 5,
+        "sentence_id": "2397913",
+        "video_count": 3,
+        "view_count": 10311757
       }
     },
     {
       "index": 44,
-      "title": "严浩翔日常过了小年就是年",
-      "url": "https://www.douyin.com/search/%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%97%A5%E5%B8%B8%E8%BF%87%E4%BA%86%E5%B0%8F%E5%B9%B4%E5%B0%B1%E6%98%AF%E5%B9%B4?type=general",
-      "hot_value": "7709079",
+      "title": "太平年主角团只剩下了钱俶",
+      "url": "https://www.douyin.com/search/%E5%A4%AA%E5%B9%B3%E5%B9%B4%E4%B8%BB%E8%A7%92%E5%9B%A2%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BA%86%E9%92%B1%E4%BF%B6?type=general",
+      "hot_value": "7677517",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oUNAKOFjfEDDlqBAsUHwfuEspNIg9zBEeZzZmC~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=Y9b3Ye39EJ%2FKofK3oyaOpeSGgvw%3D&from=3218412987",
-        "hot_value": 7709079,
-        "label": 17,
-        "sentence_id": "2398485",
+        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o0BiMi9BeI3jciEA8CLfqNJ1NXjMB9glMpINAA~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=HLkKX06uaUgaI4SXEMJValrSnmI%3D&from=3218412987",
+        "hot_value": 7677517,
+        "label": 11,
+        "sentence_id": "2398056",
         "video_count": 3,
-        "view_count": 8368271
+        "view_count": 8351100
       }
     },
     {
       "index": 45,
-      "title": "飞驰3当年的叶经理又回来了",
-      "url": "https://www.douyin.com/search/%E9%A3%9E%E9%A9%B03%E5%BD%93%E5%B9%B4%E7%9A%84%E5%8F%B6%E7%BB%8F%E7%90%86%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86?type=general",
-      "hot_value": "7703811",
+      "title": "刘宇少年将军",
+      "url": "https://www.douyin.com/search/%E5%88%98%E5%AE%87%E5%B0%91%E5%B9%B4%E5%B0%86%E5%86%9B?type=general",
+      "hot_value": "7672074",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oMoKeWCZ0INWAiA6xBxiJ6NiIaBBTYAQdgf2th~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=aGTYK9jbDrGG7xZHJGITRMVNMVQ%3D&from=3218412987",
-        "hot_value": 7703811,
-        "label": 5,
-        "sentence_id": "2397913",
-        "video_count": 3,
-        "view_count": 6782638
+        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oslQcNIMQiygD6IOBiOgc2XYIwiA4EzSFaAPP~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=2QNqTG0yg8YdFhhTRjhhjUsLxyQ%3D&from=3218412987",
+        "hot_value": 7672074,
+        "label": 0,
+        "sentence_id": "2398435",
+        "video_count": 2,
+        "view_count": 7390455
       }
     },
     {
       "index": 46,
       "title": "庾晚音夏侯澹暧昧期嗑晕了",
       "url": "https://www.douyin.com/search/%E5%BA%BE%E6%99%9A%E9%9F%B3%E5%A4%8F%E4%BE%AF%E6%BE%B9%E6%9A%A7%E6%98%A7%E6%9C%9F%E5%97%91%E6%99%95%E4%BA%86?type=general",
-      "hot_value": "7701973",
+      "hot_value": "7664307",
       "extra": {
-        "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/oIalINiBcOfA10YDs0lMAY7IqhiX2eAxgOBWJg~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=URnlb4y7zkPOqko%2Fqb3uoatsZq4%3D&from=3218412987",
-        "hot_value": 7701973,
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oIalINiBcOfA10YDs0lMAY7IqhiX2eAxgOBWJg~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=rHTIrrp%2BIoGr1eagD4%2BfZxb6xtc%3D&from=3218412987",
+        "hot_value": 7664307,
         "label": 5,
         "sentence_id": "2397938",
         "video_count": 1,
-        "view_count": 5079768
+        "view_count": 4783803
       }
     },
     {
       "index": 47,
-      "title": "太平年主角团只剩下了钱俶",
-      "url": "https://www.douyin.com/search/%E5%A4%AA%E5%B9%B3%E5%B9%B4%E4%B8%BB%E8%A7%92%E5%9B%A2%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BA%86%E9%92%B1%E4%BF%B6?type=general",
-      "hot_value": "7698002",
+      "title": "过年就做这个爆闪美甲",
+      "url": "https://www.douyin.com/search/%E8%BF%87%E5%B9%B4%E5%B0%B1%E5%81%9A%E8%BF%99%E4%B8%AA%E7%88%86%E9%97%AA%E7%BE%8E%E7%94%B2?type=general",
+      "hot_value": "7660988",
       "extra": {
-        "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o0BiMi9BeI3jciEA8CLfqNJ1NXjMB9glMpINAA~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=86%2FYZc1RZb63R%2FqO0aWDcipWouo%3D&from=3218412987",
-        "hot_value": 7698002,
-        "label": 11,
-        "sentence_id": "2398056",
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/o02WeBCgIx78eLpJM8ftJQ8ITXd43MlVECQgAJ~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=P4ElnZkWZbNNFPy%2By6wvk8BZ5%2Fg%3D&from=3218412987",
+        "hot_value": 7660988,
+        "label": 0,
+        "sentence_id": "2397803",
         "video_count": 3,
-        "view_count": 4311139
+        "view_count": 3888800
       }
     },
     {
       "index": 48,
-      "title": "美联储降息再迎来变数",
-      "url": "https://www.douyin.com/search/%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%E5%86%8D%E8%BF%8E%E6%9D%A5%E5%8F%98%E6%95%B0?type=general",
-      "hot_value": "7695598",
+      "title": "和明星一起看多闪新年烟花",
+      "url": "https://www.douyin.com/search/%E5%92%8C%E6%98%8E%E6%98%9F%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%A4%9A%E9%97%AA%E6%96%B0%E5%B9%B4%E7%83%9F%E8%8A%B1?type=general",
+      "hot_value": "7660070",
       "extra": {
-        "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogaNPAlhpIIYFBQtEyi6aiSFIPGPANag0j1g3~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=hfX5rCw6hz7F0PspBNEQ5W3tLdU%3D&from=3218412987",
-        "hot_value": 7695598,
-        "label": 3,
-        "sentence_id": "2397729",
-        "video_count": 3,
-        "view_count": 2541028
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/osaMlhgxvAIUlfORFBe04BB1IiADiAZldgoICz~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=mzGofU4oy7%2Bsy%2Bw6aFXgMXnk8Eo%3D&from=3218412987",
+        "hot_value": 7660070,
+        "label": 9,
+        "sentence_id": "2398476",
+        "video_count": 10,
+        "view_count": 2608846
       }
     },
     {
       "index": 49,
-      "title": "吴京回应网友喊话多拍武侠片",
-      "url": "https://www.douyin.com/search/%E5%90%B4%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%96%8A%E8%AF%9D%E5%A4%9A%E6%8B%8D%E6%AD%A6%E4%BE%A0%E7%89%87?type=general",
-      "hot_value": "7694508",
+      "title": "郭晶晶霍启刚粤语送新春祝福",
+      "url": "https://www.douyin.com/search/%E9%83%AD%E6%99%B6%E6%99%B6%E9%9C%8D%E5%90%AF%E5%88%9A%E7%B2%A4%E8%AF%AD%E9%80%81%E6%96%B0%E6%98%A5%E7%A5%9D%E7%A6%8F?type=general",
+      "hot_value": "7654932",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oYq3ViJAiIOEgJx5lMfVgwwAeXO40BNbABnvB5~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=LRt%2Fl69b7nSN4Nc7hni8rjlf13o%3D&from=3218412987",
-        "hot_value": 7694508,
-        "label": 8,
-        "sentence_id": "2398313",
+        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oUavAgY0PvZRIYwI5vvwNEnmWiSAiiCBG6QIF~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=gTWzpR1Hh7FiRN1O0sYvl9AuxQY%3D&from=3218412987",
+        "hot_value": 7654932,
+        "label": 0,
+        "sentence_id": "2397708",
         "video_count": 3,
-        "view_count": 772976
+        "view_count": 980551
       }
     },
     {
       "index": 50,
-      "title": "廉子文与文内马斯碰撞",
-      "url": "https://www.douyin.com/search/%E5%BB%89%E5%AD%90%E6%96%87%E4%B8%8E%E6%96%87%E5%86%85%E9%A9%AC%E6%96%AF%E7%A2%B0%E6%92%9E?type=general",
-      "hot_value": "7688658",
+      "title": "光从东方来西安场",
+      "url": "https://www.douyin.com/search/%E5%85%89%E4%BB%8E%E4%B8%9C%E6%96%B9%E6%9D%A5%E8%A5%BF%E5%AE%89%E5%9C%BA?type=general",
+      "hot_value": "7650941",
       "extra": {
-        "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ocNBjdSAUNKDe5smEmZ9mxfEAlAFZoEpgQqQp8~noop.jpeg?lk3s=bfd515bb&x-expires=1770919200&x-signature=RqU5f5OPJDKtaRMNIMDcrMP5fmI%3D&from=3218412987",
-        "hot_value": 7688658,
-        "label": 0,
-        "sentence_id": "2397677",
-        "video_count": 3,
-        "view_count": 1470085
+        "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/okEpINAfVObImVA9wXjpfHFxj7CDRCgAARuoNB~noop.jpeg?lk3s=bfd515bb&x-expires=1770922800&x-signature=%2FvaXYVuBfwG98OgBUzo8gPFMQ3Y%3D&from=3218412987",
+        "hot_value": 7650941,
+        "label": 1,
+        "sentence_id": "2398542",
+        "video_count": 2,
+        "view_count": 536940
       }
     }
   ]
